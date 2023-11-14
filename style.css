@@ -194,6 +194,10 @@ body {
     color: #0095ff;
 }
 
+.priceWrapper span {
+    color: #fff;
+}
+
 .priceWrapper h2 {
     margin-top: 40px;
     color: #0095ff;
